@@ -21,10 +21,10 @@ visualization meets AI: interfaces that turn real data and LLMs into answers peo
 
 ### 🧰 Tech
 
-**Frontend:** TypeScript · React · Next.js · D3.js · Angular · React Native
-**Backend:** Node.js · GraphQL / Apollo · Python (Flask) · Go
-**Cloud & tooling:** AWS · Docker · Kubernetes · Playwright · Vitest / Jest · GitHub Actions
-**AI:** LLM APIs (Claude, GPT, Gemini) · MCP · prompt evaluation · ML/DL coursework (Python)
+- **Frontend:** TypeScript · React · Next.js · D3.js · Angular · React Native
+- **Backend:** Node.js · GraphQL / Apollo · Python (Flask) · Go
+- **Cloud & tooling:** AWS · Docker · Kubernetes · Playwright · Vitest / Jest · GitHub Actions
+- **AI:** LLM APIs (Claude, GPT, Gemini) · MCP · prompt evaluation · ML/DL coursework (Python)
 
 ### 📫 Contact
 
